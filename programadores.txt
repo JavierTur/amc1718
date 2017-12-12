@@ -3,4 +3,4 @@ programador 1: Javi
 programador 2: Alex
 	email: alejandro@hotmail.com
 programador 3: Oscar
-	email: example@mail.com
+	email: oscar@hotmail.com
