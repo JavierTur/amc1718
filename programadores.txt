@@ -1,2 +1,4 @@
 programador 1: Javi
 	email: javier@hotmail.com
+programador 2: Alex
+	email: alejandro@hotmail.com
