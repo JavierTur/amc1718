@@ -2,5 +2,5 @@ programador 1: Javi
 	email: javier@hotmail.com
 programador 2: Alex
 	email: alejandro@hotmail.com
-programador 3: Oscar
+programador 3: Oscar Chaves
 	email: oscar@hotmail.com
